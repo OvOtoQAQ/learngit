@@ -3,4 +3,8 @@ Git is so so great under the GPL!
 This file will be rewritten.
 Append one line.
 git tracks changes of files.
-Creating a new branch is fast $ simple!
+<<<<<<< HEAD
+Creating a new branch is fast AND simple!
+=======
+Creating a new branch is quick and simple!
+>>>>>>> feature1
